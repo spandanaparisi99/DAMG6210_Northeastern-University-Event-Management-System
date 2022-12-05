@@ -1,0 +1,19 @@
+Assignment 3 - Gathering, Scraping, Munging and Cleaning Data
+
+Sources of data used: 
+* NEU campus labs for organizations and upcoming events -https://neu.campuslabs.com/engage/organizations 
+* OGS website page for all events - https://international.northeastern.edu/ogs/student-support/events/ 
+* Career Center website for events hosted by them - https://careers.northeastern.edu/events/ 
+* Asian American Center website - https://asianamericancenter.northeastern.edu/events/ 
+* Northeastern University events - https://calendar.northeastern.edu/calendar 
+* College of Engineering Website for events - https://coe.northeastern.edu/events/
+
+The data about the events have been extracted from these websites and inserted into csv files, which can be found in the datasets folder. Websites have been used to extract data from the above mentioned websites.
+
+The datasets have been audited for the quality. We have evaluated the datasets for accuracy and validity. completeness and consistency. Which can be checked in the folder named datasets and charts.
+
+The datasets have been inserted into the database using the sql files which can be found in the insert statements folder.
+
+We have retrieved data by implementing all of the use-cases we have created so far. We have implemented 20 use cases, whose results can be found in the 'select results with usecase' folder.
+
+There has been no feedback from assignment 2 to implement.
