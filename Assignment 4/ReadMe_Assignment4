@@ -1,0 +1,9 @@
+##Assignment 4 
+
+The normalized database and tables can be found in the Database Normalization pdf document. 
+
+This folder includes the updated ERD with the normalized tables as well as the updated create statements for the normalized database. 
+
+The views for all the use cases as well as the join statements made in assignment 3 can be found in the views for all use cases pdf document. 
+
+The sql statements for the views can be in found in this folder under the same heading. 
